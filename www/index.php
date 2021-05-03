@@ -35,7 +35,7 @@
 
             color: #000000;
         }
-        .up{
+        .up{    
             font-family: Roboto, sans-serif;
             font-style: normal;
             font-weight: bold;
