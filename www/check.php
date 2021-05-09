@@ -25,4 +25,5 @@ $mysql->query("INSERT INTO `student` (`surname`, `name`, `fathername`, `group_nu
 
 $mysql->close();
 header('location: profile.php');
+
 ?>
