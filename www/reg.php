@@ -113,10 +113,10 @@
     <div class="container">
         <div class="sign_in">
             <div class="choise">
-                <a class="up" href="#">Вход</a>
+                <a class="up" href="index.php">Вход</a>
                 <div class="in">Регистрация</div>
             </div>
-            <form  action="php/auth.php" method="post">
+            <form  action="check.php" method="post">
 
                 <input type="text" class="form-control" name="fathername" id="fathername" placeholder="Фамилия">
 

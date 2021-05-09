@@ -114,7 +114,7 @@
         <div class="sign_in">
             <div class="choise">
                 <div class="in">Вход</div>
-                <a class="up" href="#">Регистрация</a>
+                <a class="up" href="reg.php">Регистрация</a>
             </div>
             <form  action="php/auth.php" method="post">
                 <input type="text" class="form-control" name="login" id="login" placeholder="Логин">
